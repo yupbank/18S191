@@ -112,10 +112,7 @@ function newton_sqrt(x, error_margin=0.01, a=x / 2) # a=x/2 is the default value
 	return a
 end
 
-# ╔═╡ b0ecc57e-ec8b-11ea-1128-2544e0d03d1f
 
-
-# ╔═╡ b260bce4-ec8b-11ea-182d-47298a42362b
 
 
 # ╔═╡ 7a01a508-e78a-11ea-11da-999d38785348
@@ -339,8 +336,6 @@ has area **$(area_sierpinski(n))**
 # ╟─e7abd366-e7a6-11ea-30d7-1b6194614d0a
 # ╟─d62f223c-e754-11ea-2470-e72a605a9d7e
 # ╠═4896bf0c-e754-11ea-19dc-1380bb356ab6
-# ╠═b0ecc57e-ec8b-11ea-1128-2544e0d03d1f
-# ╠═b260bce4-ec8b-11ea-182d-47298a42362b
 # ╟─7a01a508-e78a-11ea-11da-999d38785348
 # ╟─682db9f8-e7b1-11ea-3949-6b683ca8b47b
 # ╟─088cc652-e7a8-11ea-0ca7-f744f6f3afdd
